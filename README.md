@@ -7,8 +7,9 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 **Our Mission:** To provide reliable, high-quality microscopy and bioimage analysis services, facilitating reliable, reproducible and impactful scientific research.
 
 ## What we offer
-|<div align="center"><img src="images/consulting2.png" alt="Consultations" height="50"> <br>Consultations</div>|<img src="images/services.png" alt="Services" height="50"> &nbsp; Services|<img src="images/training.png" alt="Trainng" height="50"> &nbsp;Training|
+|<div align="center"><img src="images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>|<div align="center"><img src="images/services.png" alt="Services" height="50"><br>Services</div>|<div align="center"><img src="images/training.png" alt="Trainng" height="50"><br>Training</div>|
 |---|---|---|
+|- Sample preparation <br> - Imaging techniques <br> - Bioimage analysis|- Advanced imaging <br> - Bioimage analysis <br> - User training|- Personalized training <br> - Workshops and group courses|
 
 
 
