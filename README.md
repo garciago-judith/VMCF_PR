@@ -1,20 +1,31 @@
 # <img src="images/VMCF_logo_bg.svg" alt="VMCF Logo" height="40"><br> Viničná Microscopy Core Facility
 
-## About Us
+## 🚀 About Us
 
 Welcome to the Viničná Microscopy Core Facility! We are an open-access resource specializing in advanced microscopy and bioimage analysis. As part of the Laboratory of Confocal and Fluorescence Microscopy, we offer a wide range of services, including cutting-edge imaging technologies and expert analytical support to meet your research needs.
 
 **Our Mission:** To offer consistent, high-quality microscopy and bioimage analysis services, enabling reproducible and impactful scientific research.
 
-## What we offer
+## 🤝 What we offer
 |<div align="center"><img src="images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>|<div align="center"><img src="images/services.png" alt="Services" height="50"><br>Services</div>|<div align="center"><img src="images/training.png" alt="Trainng" height="50"><br>Training</div>|
 |---|---|---|
 |<li>Sample preparation</li><li>Imaging techniques</li><li>Bioimage analysis</li></ul>|<li>Advanced imaging</li><li>Bioimage analysis</li><li>User training</li>|<li>Personalized training</li><li>Workshops and group courses</li>|
 
-## More information and latest news
-<img src="images/github_logo.svg" alt="GitHub Logo" width="20" height="20"> &nbsp; [VMCF GitHub](https://github.com/vmcf-konfmi)<br><img src="images/X_logo.svg" alt="X Logo" width="20" height="20">  &nbsp; [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
+## 👨‍💻 Our team
+|||
+|---|---|
+|<img src="images/burdikova.png" alt="Zuzana Burdikova" width="125">|**Zuzana Burdíková**|
+|<img src="images/schatz.png" alt="Martin Schätz" width="125">|**Martin Schätz**|
+|<img src="images/garcia.png" alt="Martin Schätz" width="125">|**Judith Garcia-Gonzalez**|
 
-## Available light microscopy equipment
+## 📖 Our workshops and courses
+* [Advanced Image analysis](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100T01)
+* [Molecular Probes in Biomedical Imaging](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100P09)
+* [Quantitative Microscopy](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100P08)
+* [Image Analysis and Data Processing in Super-Resolution Microscopy (workshop)](https://vmcf-konfmi.github.io/workshop-IADPSRM/intro.html)
+* [Fundamentals of bioimage analysis (workshop)](https://web.natur.cuni.cz/sekce-bi/VMCF/bioimage-analysis-fundamentals-2/)
+  
+## 🔬 Available light microscopy equipment
 ### Confocal microscopes 
 ||||
 |---|---|---|
@@ -39,3 +50,6 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 ||||
 |---|---|---|
 |Zeiss Lightsheet Z.1 |<img src="images/zeiss_lightsheet.png" alt="Zeiss Lightsheet Z.1" width="400">|<li> Ideal for rapid acquisition of fixed, living, or cleared samples using selective plane illumination.</li><li>Two pairs of 5x and 10x **illumination objectives** for flexible imaging.</li><li>Detection at 5x, 10x, 20x, and 40x magnifications, including two specialized 20x objectives for clearing with refractive indices (RI) of 1.38 and 1.45.</li><li>Sample chamber for specimens of up to 2x2x2cm volume.</li><li>Two-channel acquisition is powered by two cooled PCO cameras.</li>|
+
+## 🔗 More information and latest news
+<img src="images/github_logo.svg" alt="GitHub Logo" width="20" height="20"> &nbsp; [VMCF GitHub](https://github.com/vmcf-konfmi)<br><img src="images/X_logo.svg" alt="X Logo" width="20" height="20">  &nbsp; [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
