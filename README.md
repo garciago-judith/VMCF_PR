@@ -9,7 +9,7 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 ## 🤝 What we offer
 |<div align="center"><img src="images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>|<div align="center"><img src="images/services.png" alt="Services" height="50"><br>Services</div>|<div align="center"><img src="images/training.png" alt="Trainng" height="50"><br>Training</div>|
 |---|---|---|
-|<li>Sample preparation</li><li>Imaging techniques</li><li>Bioimage analysis</li></ul>|<li>Advanced imaging</li><li>Bioimage analysis</li><li>User training</li>|<li>Personalized training</li><li>Workshops and group courses</li>|
+|<li>Sample preparation</li><li>Imaging techniques</li><li>Bioimage analysis</li></ul>|<li>Advanced imaging</li><li>[Bioimage analysis](#-bioimage-analysis-service)</li><li>User training</li>|<li>Personalized training</li><li>Workshops and group courses</li>|
 
 ## 👨‍💻 Our team
 |||
@@ -17,6 +17,8 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 |<img src="images/burdikova.png" alt="Zuzana Burdikova" width="125">|**Zuzana Burdíková**|
 |<img src="images/schatz.png" alt="Martin Schätz" width="125">|**Martin Schätz**|
 |<img src="images/garcia.png" alt="Martin Schätz" width="125">|**Judith Garcia-Gonzalez**|
+
+## 🖥️ Bioimage Analysis service
 
 ## 📖 Our workshops and courses
 * [Advanced Image analysis](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100T01)
