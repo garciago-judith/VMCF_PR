@@ -105,9 +105,23 @@ At our core facility, we offer advanced microscopy techniques, including super-r
 ## 👨‍💻 Our team
 |||
 |---|---|
-|<img src="images/burdikova.png" alt="Zuzana Burdikova" width="125">|**Zuzana Burdíková**|
-|<img src="images/schatz.png" alt="Martin Schätz" width="125">|**Martin Schätz**|
-|<img src="images/garcia.png" alt="Martin Schätz" width="125">|**Judith Garcia-Gonzalez**|
+|<img src="images/burdikova.png" alt="Zuzana Burdikova" width="125">|**Zuzana Burdíková** <br> Email: zuzana.burdikova@natur.cuni.cz, X: @BurdikovaZuzana <br>%%%%team member description%%%%|
+|<img src="images/schatz.png" alt="Martin Schätz" width="125">|**Martin Schätz**<br> Email: martin.Schatz@natur.cuni.cz, X: @SchatzCz <br>%%%%team member description%%%%|
+|<img src="images/garcia.png" alt="Martin Schätz" width="125">|**Judith Garcia-Gonzalez**<br> Email: garciagj@natur.cuni.cz, X: @judith_garciago <br>%%%%team member description%%%%|
+
+## 📩 Contact
+You can find us at: <br>
+**Viničná Microscopy Core Facility**<br>
+Faculty of Science (Charles University)<br>
+Viničná 7<br>
+128 44 Prague 2<br>
+Czech Republic<br>
+
+For any inquiries or to schedule a consultation, please reach out through the following:
+
+- **Email**: [email@example.com](mailto:email@example.com)
+- **Schedule a Meeting**: [Calendly](https://calendly.com/)
+- **Consultancy Guidelines**: Please review the [Bioimage Analysis Consultancy](#bioimage-analysis-consultancy) section before booking a consultation.
 
 ## 🔗 More information and latest news
 <img src="images/github_logo.svg" alt="GitHub Logo" width="20" height="20"> &nbsp; [VMCF GitHub](https://github.com/vmcf-konfmi)<br><img src="images/X_logo.svg" alt="X Logo" width="20" height="20">  &nbsp; [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
