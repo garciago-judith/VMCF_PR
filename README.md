@@ -9,25 +9,21 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 ## 🤝 What we offer
 |<div align="center"><img src="images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>|<div align="center"><img src="images/services.png" alt="Services" height="50"><br>Services</div>|<div align="center"><img src="images/training.png" alt="Trainng" height="50"><br>Teaching</div>|
 |---|---|---|
-|<li>Sample preparation</li><li>Imaging techniques</li><li>Bioimage analysis</li></ul>|<li>[Advanced imaging](#-advanced-imaging---available-light-microscopy-equipment)</li><li>[Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service)</li><li>User training</li>|<li>Personalized training</li><li>[Workshops and group courses](#-our-workshops-and-courses)</li>|
+|<li>Sample preparation</li><li>Imaging techniques</li><li>[Bioimage analysis](#bioimage-analysis-consultancy)</li></ul>|<li>[Advanced imaging](#-advanced-imaging---available-light-microscopy-equipment)</li><li>[Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service)</li><li>User training</li>|<li>Personalized training</li><li>[Workshops and group courses](#-our-workshops-and-courses)</li>|
 
-## 💡Image Analysis Consultancy
+## 💡Bioimage Analysis Consultancy
 Our Image Analysis Consultancy provides personalized support to help you optimize and navigate your bioimage analysis workflows. Whether you're establishing new processes or refining existing ones, we're here to assist every step of the way.
 
 ### Arrange a Meeting
 - **Booking**: Schedule an in-person or online meeting by selecting a slot through [Calendly](https://calendly.com/) or by emailing us with a brief description of your inquiry. This helps us prepare effectively for your session.
-
 ### Prepare for the Meeting
 - **Necessary Preparation**: Select two (not more❗) example images, ideally opened in FIJI, so we can inspect the raw data in detail during the meeting. Choose images that represent the range of phenomena you're investigating (e.g., positive and negative controls).
-  
-- **Optional Data Sharing**: Sharing a minimal set of example data in advance can be very helpful. Details on data preparation can be found in the "Image Data Preparation" section below.
-
-- **Optional Presentation**: If possible, prepare a short presentation covering the following topics:
+- **(Optional) Data Sharing**: Sharing a minimal set of example data in advance can be very helpful. Details on data preparation can be found in the "Image Data Preparation" section below.
+- **(Optional) Presentation**: If possible, prepare a short presentation covering the following topics:
   - **Scientific Background**: An overview of the project.
   - **Sample Preparation and Image Acquisition**: Details on the specimen, staining methods, and microscopy used.
   - **Example Images**: Ideally, provide treated and untreated images that show a clear difference. If not applicable, show a range of images to illustrate data variability.
   - **Technical Details**: Clarify the specific numbers you wish to measure, the volume of data (e.g., 10, 100, 1,000 images), image sizes, preferred software, and any preliminary analysis attempts.
-
 ### Image Data Preparation
 - **Organize Your Data**: Select a minimal set of representative images that clearly show biologically relevant differences.
 - **Suggested Folder Structure**:
@@ -38,39 +34,38 @@ Our Image Analysis Consultancy provides personalized support to help you optimiz
   ├── condition02/
   │   └── condition02_image01.tif
   └── README.txt
-
 ## 🖥️ Bioimage Analysis service
-We offer a range of open-access services tailored to meet the specific needs of your projects. Our services include:
+We offer a variety of open-access services to fit the specific needs of your projects. Our services include:
 
-- **Consultations**: 
-  - Get expert advice on selecting software, plugins, and tools for your specific tasks.
-  - Learn about available resources and get guidance on interpreting results or optimizing existing workflows.
-  - **Time frame**: Typically from a few hours to a few days (depending on availability, check our Calendly for booking).
+- **Consultations**:
+  - Get help choosing the right software, plugins, and tools for your tasks.
+  - Find resources and get advice on interpreting results or improving your workflows.
+  - **Timeframe**: Few hours to a few days (depending on availability; check our Calendly for booking).
 
-- **Workflow Setup**: 
-  - Design and implement analysis workflows using specific tools or software.
-  - We assist in setting up, testing, and optimizing software, and can help you re-run supplementary code from published papers using your data.
-  - **Time frame**: Usually takes a few days to a few weeks.
+- **Workflow Setup**:
+  - Design and set up analysis workflows tailored to your needs.
+  - We can help with software setup, testing, and running code from published papers using your data.
+  - **Timeframe**: Few days to a few weeks.
 
-- **Tool Development**: 
-  - Collaborate with our team to develop, rewrite, or fine-tune BioImage Analysis tools through pair programming.
-  - **Time frame**: Typically spans weeks to several months, depending on the complexity.
+- **Pair Programming for Tool Development**:
+  - Work with us to develop, refine, or improve BioImage Analysis tools through collaborative programming.
+  - **Timeframe**: Usually takes several weeks to months, depending on the project.
 
-- **Workflow Execution**: 
-  - We can run analysis workflows on your behalf using our pre-configured server, which includes both open-source and commercial BioImage Analysis tools.
-  - **Time frame**: Varies based on the workflow's complexity.
+- **Workflow Execution**:
+  - We can run analysis workflows for you on our server, which has both open-source and commercial BioImage Analysis tools.
+  - **Timeframe**: Varies depending on the complexity of the workflow.
 
 If you're unsure where to start, we recommend scheduling a short consultation to discuss your needs and determine the best approach.
 
-### Guidelines for Collaboration
+### Guidelines for a healthy cooperation
 
-To ensure a smooth and productive collaboration, please keep the following guidelines in mind:
+To ensure a smooth and productive partnership, please consider the following guidelines when publishing results derived from our collabotation:
 
 - **Acknowledgment**: Any publications resulting from the use of our tools or services should include an acknowledgment of the facility.
 - **Authorship**: If a team member provided significant intellectual input or contributed additional data (e.g., scripts, software, or numerical results), they should be acknowledged by name or considered for co-authorship.
-- **Co-Authorship**: Co-authorship decisions should be made during the manuscript preparation stage. Co-authors reserve the right to review any manuscript containing results generated by the facility before submission.
-- **Contributions**: Each author should have made substantial contributions to the work, approved the final version, and agreed to be accountable for their contributions to ensure the accuracy and integrity of the research.
-- **Affiliations**: The primary affiliation for each author should be the institution where the majority of their work was conducted. If the author has since moved, their current address may also be included.
+  - **Co-Authorship**: Co-authorship decisions should be made during the manuscript preparation stage. Co-authors reserve the right to review any manuscript containing results generated by the facility before submission.
+  - **Contributions**: Each author should have made substantial contributions to the work, approved the final version, and agreed to be accountable for their contributions to ensure the accuracy and integrity of the research.
+  - **Affiliations**: The primary affiliation for each author should be the institution where the majority of their work was conducted. If the author has since moved, their current address may also be included.
   
 ## 🔬 Advanced imaging - available light microscopy equipment
 At our core facility, we offer advanced microscopy techniques, including super-resolution, confocal, and high-throughput imaging. Our team is here to help you select the best tools and fine-tune your workflows, ensuring you get the most valuable insights from your samples.
