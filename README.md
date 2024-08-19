@@ -27,7 +27,7 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 * [Image Analysis and Data Processing in Super-Resolution Microscopy (workshop)](https://vmcf-konfmi.github.io/workshop-IADPSRM/intro.html)
 * [Fundamentals of bioimage analysis (workshop)](https://web.natur.cuni.cz/sekce-bi/VMCF/bioimage-analysis-fundamentals-2/)
   
-## 🔬 Available light microscopy equipment
+## 🔬 Advanced imaging - available light microscopy equipment
 ### Confocal microscopes 
 ||||
 |---|---|---|
