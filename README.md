@@ -142,14 +142,45 @@ At our core facility, we offer advanced microscopy techniques, including super-r
 |<img src="images/zeiss_axioscanZ1.png" alt="ZEISS Axioscan Z.1" width=400px>|**ZEISS Axioscan Z.1**<br><li>Fully automated microscope with dock for 100 slides, capable of autonomous scanning.</li><li>High-throughput imaging ideal for tissue sections.</li><li> Enables 3D reconstruction of scanned samples.</li><li>Enables 3D reconstruction of scanned samples.</li>| -->
 
 ### Super-resolution microscopes
-|||
+<table style="width:100%;">
+<tbody>
+<tr>
+  <td align="left" width="25%"><img src="images/zeiss_elyra_PS1.png" alt="Zeiss Elyra PS.1"></td>
+  <td align="left"><b>Zeiss Elyra PS.1</b><br>
+    <ul>
+      <li>Utilizes Structured Illumination Microscopy (SIM) and precise localization (PALM/STORM) to surpass the diffraction barrier, achieving resolution 2-3x higher with SIM and up to 5 nm with localization microscopy.</li>
+      <li>Features Total Internal Reflection Fluorescence (TIRF) to increase the signal-to-noise ratio near the cover glass.</li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
+
+<!-- |||
 |---|---|
-|<img src="images/zeiss_elyra_PS1.png" alt="Zeiss Elyra PS.1" width=400px>|**Zeiss Elyra PS.1**<br><li>Utilizes Structured Illumination Microscopy (SIM) and precise localization (PALM/STORM) to surpass the diffraction barrier, achieving resolution 2-3x higher with SIM and up to 5 nm with localization microscopy.</li><li>Features Total Internal Reflection Fluorescence (TIRF) to increase the signal-to-noise ratio near the cover glass.</li>|
+|<img src="images/zeiss_elyra_PS1.png" alt="Zeiss Elyra PS.1" width=400px>|**Zeiss Elyra PS.1**<br><li>Utilizes Structured Illumination Microscopy (SIM) and precise localization (PALM/STORM) to surpass the diffraction barrier, achieving resolution 2-3x higher with SIM and up to 5 nm with localization microscopy.</li><li>Features Total Internal Reflection Fluorescence (TIRF) to increase the signal-to-noise ratio near the cover glass.</li>| -->
 
 ### Ligthsheet microscopes
-|||
+<table style="width:100%;">
+<tbody>
+<tr>
+  <td align="left" width="25%"><img src="images/zeiss_lightsheet.png" alt="Zeiss Lightsheet Z.1"></td>
+  <td align="left"><b>Zeiss Lightsheet Z.1</b><br>
+    <ul>
+      <li>Ideal for rapid acquisition of fixed, living, or cleared samples using selective plane illumination.</li>
+      <li>Two pairs of 5x and 10x illumination objectives for flexible imaging.</li>
+      <li>Detection at 5x, 10x, 20x, and 40x magnifications, including two specialized 20x objectives for clearing with refractive indices (RI) of 1.38 and 1.45.</li>
+      <li>Sample chamber for specimens of up to 2x2x2cm volume.</li>
+      <li>Two-channel acquisition is powered by two cooled PCO cameras.</li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
+
+<!-- |||
 |---|---|
-|<img src="images/zeiss_lightsheet.png" alt="Zeiss Lightsheet Z.1" width="200">|**Zeiss Lightsheet Z.1**<br><li> Ideal for rapid acquisition of fixed, living, or cleared samples using selective plane illumination.</li><li>Two pairs of 5x and 10x **illumination objectives** for flexible imaging.</li><li>Detection at 5x, 10x, 20x, and 40x magnifications, including two specialized 20x objectives for clearing with refractive indices (RI) of 1.38 and 1.45.</li><li>Sample chamber for specimens of up to 2x2x2cm volume.</li><li>Two-channel acquisition is powered by two cooled PCO cameras.</li>|
+|<img src="images/zeiss_lightsheet.png" alt="Zeiss Lightsheet Z.1" width="200">|**Zeiss Lightsheet Z.1**<br><li> Ideal for rapid acquisition of fixed, living, or cleared samples using selective plane illumination.</li><li>Two pairs of 5x and 10x **illumination objectives** for flexible imaging.</li><li>Detection at 5x, 10x, 20x, and 40x magnifications, including two specialized 20x objectives for clearing with refractive indices (RI) of 1.38 and 1.45.</li><li>Sample chamber for specimens of up to 2x2x2cm volume.</li><li>Two-channel acquisition is powered by two cooled PCO cameras.</li>| -->
 
 ## 📖 Our workshops and courses
 * [Advanced Image analysis](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100T01)
