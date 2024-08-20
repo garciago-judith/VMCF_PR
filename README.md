@@ -98,7 +98,7 @@ table th:nth-of-type(2) {
 ### Super-resolution microscopes
 |||
 |---|---|
-|<img src="images/zeiss_elyra_PS1.png" alt="Zeiss Elyra PS.1" style="width:200px;">|**Zeiss Elyra PS.1**<br><li>Utilizes Structured Illumination Microscopy (SIM) and precise localization (PALM/STORM) to surpass the diffraction barrier, achieving resolution 2-3x higher with SIM and up to 5 nm with localization microscopy.</li><li>Features Total Internal Reflection Fluorescence (TIRF) to increase the signal-to-noise ratio near the cover glass.</li>|
+|<img src="images/zeiss_elyra_PS1.png" alt="Zeiss Elyra PS.1">|**Zeiss Elyra PS.1**<br><li>Utilizes Structured Illumination Microscopy (SIM) and precise localization (PALM/STORM) to surpass the diffraction barrier, achieving resolution 2-3x higher with SIM and up to 5 nm with localization microscopy.</li><li>Features Total Internal Reflection Fluorescence (TIRF) to increase the signal-to-noise ratio near the cover glass.</li>|
 
 ### Ligthsheet microscopes
 |||
