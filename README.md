@@ -76,14 +76,14 @@ At our core facility, we offer advanced microscopy techniques, including super-r
 <table  style="width:100%;">
 <tbody>
 <tr>
-<td align="left" width="200px"><img src="images/leica_sp8.png" alt="Leica SP8"></td>
+<td align="left" width="25%"><img src="images/leica_sp8.png" alt="Leica SP8"></td>
 <td align="left"><b>Leica TCS SP8</b><br><li>High-end confocal microscope with standard PMT and sensitive HyD detector.</li><li>Supports fixed and living samples.</li><li>Environmental chamber (PECON) with CO2 regulation for live-cell experiments</li><li>Multiple modes: lambda scanning, FRET, FRAP.</li><li>Equipped with MATRIX module for object tracking (e.g., oocytes, roots).</li></td>
 </tr>
 <tr>
-<td align="left" width="200px"><img src="images/zeiss_lsm880.png" alt="Zeiss LSM880"></td><td><b>Zeiss LSM 880 NLO</b><br><li>Latest confocal microscope with one-photon and tunable Ti pulsed lasers for two-photon excitation.</li><li>High-sensitivity 32-channel GaAsp spectral detector.</li><li>Supports one-channel FLIM, FCS, and RICS measurements, enabling exploration of molecular relationships and functions.</li><li>Includes a live-cell imaging chamber with CO2 control.</li></td>
+<td align="left" width="25%"><img src="images/zeiss_lsm880.png" alt="Zeiss LSM880"></td><td><b>Zeiss LSM 880 NLO</b><br><li>Latest confocal microscope with one-photon and tunable Ti pulsed lasers for two-photon excitation.</li><li>High-sensitivity 32-channel GaAsp spectral detector.</li><li>Supports one-channel FLIM, FCS, and RICS measurements, enabling exploration of molecular relationships and functions.</li><li>Includes a live-cell imaging chamber with CO2 control.</li></td>
 </tr>
 <tr>
-<td align="left" width="200px"><img src="images/leica_sp2.png" alt="Leica SP2"></td><td><b>Leica TCS SP2</b><br><li>High-end inverted confocal microscope with AOBS system, allowing high sensitivity and the combination of up to four fluorescence markers.</li><li>Supports multicolor analysis, 3D reconstructions, FRAP, FRET, and tile scans.</li><li> Includes a 405 nm diode laser, ideal for structural analysis of fixed samples.</li></td>
+<td align="left" width="25%"><img src="images/leica_sp2.png" alt="Leica SP2"></td><td><b>Leica TCS SP2</b><br><li>High-end inverted confocal microscope with AOBS system, allowing high sensitivity and the combination of up to four fluorescence markers.</li><li>Supports multicolor analysis, 3D reconstructions, FRAP, FRET, and tile scans.</li><li> Includes a 405 nm diode laser, ideal for structural analysis of fixed samples.</li></td>
 </tr>
 </tbody>
 </table>
@@ -99,7 +99,7 @@ At our core facility, we offer advanced microscopy techniques, including super-r
 <table style="width:100%;">
 <tbody>
 <tr>
-  <td align="left" width="200px"><img src="images/Cell-R.png" alt="Olympus Scan^R"></td>
+  <td align="left" width="25%"><img src="images/Cell-R.png" alt="Olympus Scan^R"></td>
   <td align="left"><b>Olympus Scan^R</b><br>
     <ul>
       <li>High-throughput and mosaic imaging with a high-sensitivity Hamamatsu camera.</li>
@@ -110,7 +110,7 @@ At our core facility, we offer advanced microscopy techniques, including super-r
   </td>
 </tr>
 <tr>
-  <td align="left" width="200px"><img src="images/Nikon TI2-E.png" alt="NIKON TiE2"></td>
+  <td align="left" width="25%"><img src="images/Nikon TI2-E.png" alt="NIKON TiE2"></td>
   <td align="left"><b>NIKON TiE2</b><br>
     <ul>
       <li>High-speed monochromatic ORCA Flash camera (100 fps) and RGB camera.</li>
@@ -122,7 +122,7 @@ At our core facility, we offer advanced microscopy techniques, including super-r
   </td>
 </tr>
 <tr>
-  <td align="left" width="200px"><img src="images/zeiss_axioscanZ1.png" alt="ZEISS Axioscan Z.1"></td>
+  <td align="left" width="25%"><img src="images/zeiss_axioscanZ1.png" alt="ZEISS Axioscan Z.1"></td>
   <td align="left"><b>ZEISS Axioscan Z.1</b><br>
     <ul>
       <li>Fully automated microscope with dock for 100 slides, capable of autonomous scanning.</li> 
