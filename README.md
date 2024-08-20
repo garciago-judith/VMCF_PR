@@ -90,7 +90,7 @@ At our core facility, we offer advanced microscopy techniques, including super-r
 ### Super-resolution microscopes
 ||||
 |---|---|---|
-|Zeiss Elyra PS.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<img src="images/zeiss_elyra_PS1.jpg" alt="Zeiss Elyra PS.1" style="width:600px;">|<li> Utilizes Structured Illumination Microscopy (SIM) and precise localization (PALM/STORM) to surpass the diffraction barrier, achieving resolution 2-3x higher with SIM and up to 5 nm with localization microscopy.</li><li>Features Total Internal Reflection Fluorescence (TIRF) to increase the signal-to-noise ratio near the cover glass.</li>|
+|Zeiss Elyra PS.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<img src="images/zeiss_elyra_PS1.jpg" alt="Zeiss Elyra PS.1" style="width:200px;">|<li> Utilizes Structured Illumination Microscopy (SIM) and precise localization (PALM/STORM) to surpass the diffraction barrier, achieving resolution 2-3x higher with SIM and up to 5 nm with localization microscopy.</li><li>Features Total Internal Reflection Fluorescence (TIRF) to increase the signal-to-noise ratio near the cover glass.</li>|
 
 ### Ligthsheet microscopes
 ||||
