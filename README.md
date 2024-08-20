@@ -73,13 +73,6 @@ To ensure a smooth and productive partnership, please consider the following gui
 At our core facility, we offer advanced microscopy techniques, including super-resolution, confocal, and high-throughput imaging. Our team is here to help you select the best tools and fine-tune your workflows, ensuring you get the most valuable insights from your samples.
 
 ### Confocal microscopes 
-|<div style="width:100px"></div>||
-|---|---|
-|<div style="width:100px"></div><img src="images/leica_sp8.png" alt="Leica SP8" style="width:300px;">|**Leica TCS SP8**<br><li>High-end confocal microscope with standard PMT and sensitive HyD detector.</li><li>Supports fixed and living samples.</li><li>Environmental chamber (PECON) with CO2 regulation for live-cell experiments</li><li>Multiple modes: lambda scanning, FRET, FRAP.</li><li>Equipped with MATRIX module for object tracking (e.g., oocytes, roots).</li>|
-|<div style="width:100px"></div><img src="images/zeiss_lsm880.png" alt="Zeiss LSM880" style="width:200px;">|**Zeiss LSM 880 NLO**<br><li>Latest confocal microscope with one-photon and tunable Ti pulsed lasers for two-photon excitation.</li><li>High-sensitivity 32-channel GaAsp spectral detector.</li><li>Supports one-channel FLIM, FCS, and RICS measurements, enabling exploration of molecular relationships and functions.</li><li>Includes a live-cell imaging chamber with CO2 control.</li>|
-|<div style="width:100px"></div><img src="images/leica_sp2.png" alt="Leica SP2" style="width:200px;">|**Leica TCS SP2**<br><li>High-end inverted confocal microscope with AOBS system, allowing high sensitivity and the combination of up to four fluorescence markers.</li><li>Supports multicolor analysis, 3D reconstructions, FRAP, FRET, and tile scans.</li><li> Includes a 405 nm diode laser, ideal for structural analysis of fixed samples.</li>|
-
-### Wide-field microscopes
 <style>
 table th:first-of-type {
     width: 25%;
@@ -87,8 +80,14 @@ table th:first-of-type {
 table th:nth-of-type(2) {
     width: 75%;
 }
-}
 </style>
+|||
+|---|---|
+|<img src="images/leica_sp8.png" alt="Leica SP8" style="width:300px;">|**Leica TCS SP8**<br><li>High-end confocal microscope with standard PMT and sensitive HyD detector.</li><li>Supports fixed and living samples.</li><li>Environmental chamber (PECON) with CO2 regulation for live-cell experiments</li><li>Multiple modes: lambda scanning, FRET, FRAP.</li><li>Equipped with MATRIX module for object tracking (e.g., oocytes, roots).</li>|
+|<img src="images/zeiss_lsm880.png" alt="Zeiss LSM880" style="width:200px;">|**Zeiss LSM 880 NLO**<br><li>Latest confocal microscope with one-photon and tunable Ti pulsed lasers for two-photon excitation.</li><li>High-sensitivity 32-channel GaAsp spectral detector.</li><li>Supports one-channel FLIM, FCS, and RICS measurements, enabling exploration of molecular relationships and functions.</li><li>Includes a live-cell imaging chamber with CO2 control.</li>|
+|<img src="images/leica_sp2.png" alt="Leica SP2" style="width:200px;">|**Leica TCS SP2**<br><li>High-end inverted confocal microscope with AOBS system, allowing high sensitivity and the combination of up to four fluorescence markers.</li><li>Supports multicolor analysis, 3D reconstructions, FRAP, FRET, and tile scans.</li><li> Includes a 405 nm diode laser, ideal for structural analysis of fixed samples.</li>|
+
+### Wide-field microscopes
 |||
 |---|---|
 |<img src="images/Cell-R.png" alt="Olympus Scan^R" style="width:200px;">|**Olympus Scan^R**<br><li>High-throughput and mosaic imaging with a high-sensitivity Hamamatsu camera. </li><li>Stabilized light source, motorized stage, filter, and objective turrets and shutters.</li><li>High-quality stage chamber with temperature regulation (-5 to 65 °C) and gas control (CO2, O2).</li><li>Supports multiwell dishes, suitable for varied environmental conditions.</li>|
@@ -98,7 +97,7 @@ table th:nth-of-type(2) {
 ### Super-resolution microscopes
 |||
 |---|---|
-|<img src="images/zeiss_elyra_PS1.png" alt="Zeiss Elyra PS.1">|**Zeiss Elyra PS.1**<br><li>Utilizes Structured Illumination Microscopy (SIM) and precise localization (PALM/STORM) to surpass the diffraction barrier, achieving resolution 2-3x higher with SIM and up to 5 nm with localization microscopy.</li><li>Features Total Internal Reflection Fluorescence (TIRF) to increase the signal-to-noise ratio near the cover glass.</li>|
+|<img src="images/zeiss_elyra_PS1.png" alt="Zeiss Elyra PS.1" style="width:200px;">|**Zeiss Elyra PS.1**<br><li>Utilizes Structured Illumination Microscopy (SIM) and precise localization (PALM/STORM) to surpass the diffraction barrier, achieving resolution 2-3x higher with SIM and up to 5 nm with localization microscopy.</li><li>Features Total Internal Reflection Fluorescence (TIRF) to increase the signal-to-noise ratio near the cover glass.</li>|
 
 ### Ligthsheet microscopes
 |||
