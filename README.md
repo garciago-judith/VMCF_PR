@@ -73,29 +73,37 @@ To ensure a smooth and productive partnership, please consider the following gui
 At our core facility, we offer advanced microscopy techniques, including super-resolution, confocal, and high-throughput imaging. Our team is here to help you select the best tools and fine-tune your workflows, ensuring you get the most valuable insights from your samples.
 
 ### Confocal microscopes 
-||||
-|---|---|---|
-|Leica TCS SP8|<img src="images/leica_sp8.jpg" alt="Leica SP8" style="width:200px;">|<li>High-end confocal microscope with standard PMT and sensitive HyD detector.</li><li>Supports fixed and living samples.</li><li>Environmental chamber (PECON) with CO2 regulation for live-cell experiments</li><li>Multiple modes: lambda scanning, FRET, FRAP.</li><li>Equipped with MATRIX module for object tracking (e.g., oocytes, roots).</li>|
-|Zeiss LSM 880 NLO|<img src="images/zeiss_lsm880.jpg" alt="Zeiss LSM880" style="width:200px;">|<li>Latest confocal microscope with one-photon and tunable Ti pulsed lasers for two-photon excitation.</li><li>High-sensitivity 32-channel GaAsp spectral detector.</li><li>Supports one-channel FLIM, FCS, and RICS measurements, enabling exploration of molecular relationships and functions.</li><li>Includes a live-cell imaging chamber with CO2 control.</li>|
-|Leica TCS SP2|<img src="images/leica_sp2.png" alt="Leica SP2" style="width:200px;">|<li>High-end inverted confocal microscope with AOBS system, allowing high sensitivity and the combination of up to four fluorescence markers.</li><li>Supports multicolor analysis, 3D reconstructions, FRAP, FRET, and tile scans.</li><li> Includes a 405 nm diode laser, ideal for structural analysis of fixed samples.</li>|
+|<div style="width:100px"></div>||
+|---|---|
+|<div style="width:100px"></div><img src="images/leica_sp8.png" alt="Leica SP8" style="width:300px;">|**Leica TCS SP8**<br><li>High-end confocal microscope with standard PMT and sensitive HyD detector.</li><li>Supports fixed and living samples.</li><li>Environmental chamber (PECON) with CO2 regulation for live-cell experiments</li><li>Multiple modes: lambda scanning, FRET, FRAP.</li><li>Equipped with MATRIX module for object tracking (e.g., oocytes, roots).</li>|
+|<div style="width:100px"></div><img src="images/zeiss_lsm880.png" alt="Zeiss LSM880" style="width:200px;">|**Zeiss LSM 880 NLO**<br><li>Latest confocal microscope with one-photon and tunable Ti pulsed lasers for two-photon excitation.</li><li>High-sensitivity 32-channel GaAsp spectral detector.</li><li>Supports one-channel FLIM, FCS, and RICS measurements, enabling exploration of molecular relationships and functions.</li><li>Includes a live-cell imaging chamber with CO2 control.</li>|
+|<div style="width:100px"></div><img src="images/leica_sp2.png" alt="Leica SP2" style="width:200px;">|**Leica TCS SP2**<br><li>High-end inverted confocal microscope with AOBS system, allowing high sensitivity and the combination of up to four fluorescence markers.</li><li>Supports multicolor analysis, 3D reconstructions, FRAP, FRET, and tile scans.</li><li> Includes a 405 nm diode laser, ideal for structural analysis of fixed samples.</li>|
 
 ### Wide-field microscopes
-
-||||
-|---|---|---|
-|Olympus Scan^R|<img src="images/Cell-R.jpg" alt="Olympus Scan^R" style="width:200px;">|<li>High-throughput and mosaic imaging with a high-sensitivity Hamamatsu camera. </li><li>Stabilized light source, motorized stage, filter, and objective turrets and shutters.</li><li>High-quality stage chamber with temperature regulation (-5 to 65 °C) and gas control (CO2, O2).</li><li>Supports multiwell dishes, suitable for varied environmental conditions.</li>|
-|NIKON TiE2|<img src="images/Nikon TI2-E.png" alt="NIKON TiE2" style="width:200px;">|<li>High-speed monochromatic ORCA Flash camera (100 fps) and RGB camera.</li><li>Excitation Cool-LED P-4000 with 16 LEDs covering the full spectrum.</li><li>SEDAT system of emission filters and multiband dichroic.</li><li>OKOLab environmental chamber for living cell experiments.</li><li>Driven by NIS-elements software with High Content Imaging (JOBs module).</li>|
-|ZEISS Axioscan Z.1|<img src="images/zeiss_axioscanZ1.jpg" alt="ZEISS Axioscan Z.1" style="width:200px;">|<li>Fully automated microscope with dock for 100 slides, capable of autonomous scanning.</li><li>High-throughput imaging ideal for tissue sections.</li><li> Enables 3D reconstruction of scanned samples.</li><li>Enables 3D reconstruction of scanned samples.</li>|
+<style>
+table th:first-of-type {
+    width: 25%;
+}
+table th:nth-of-type(2) {
+    width: 75%;
+}
+}
+</style>
+|||
+|---|---|
+|<img src="images/Cell-R.png" alt="Olympus Scan^R" style="width:200px;">|**Olympus Scan^R**<br><li>High-throughput and mosaic imaging with a high-sensitivity Hamamatsu camera. </li><li>Stabilized light source, motorized stage, filter, and objective turrets and shutters.</li><li>High-quality stage chamber with temperature regulation (-5 to 65 °C) and gas control (CO2, O2).</li><li>Supports multiwell dishes, suitable for varied environmental conditions.</li>|
+|<img src="images/Nikon TI2-E.png" alt="NIKON TiE2" style="width:200px;">|**NIKON TiE2**<br><li>High-speed monochromatic ORCA Flash camera (100 fps) and RGB camera.</li><li>Excitation Cool-LED P-4000 with 16 LEDs covering the full spectrum.</li><li>SEDAT system of emission filters and multiband dichroic.</li><li>OKOLab environmental chamber for living cell experiments.</li><li>Driven by NIS-elements software with High Content Imaging (JOBs module).</li>|
+|<img src="images/zeiss_axioscanZ1.png" alt="ZEISS Axioscan Z.1" style="width:200px;">|**ZEISS Axioscan Z.1**<br><li>Fully automated microscope with dock for 100 slides, capable of autonomous scanning.</li><li>High-throughput imaging ideal for tissue sections.</li><li> Enables 3D reconstruction of scanned samples.</li><li>Enables 3D reconstruction of scanned samples.</li>|
 
 ### Super-resolution microscopes
-||||
-|---|---|---|
-|Zeiss Elyra PS.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<img src="images/zeiss_elyra_PS1.jpg" alt="Zeiss Elyra PS.1" style="width:200px;">|<li> Utilizes Structured Illumination Microscopy (SIM) and precise localization (PALM/STORM) to surpass the diffraction barrier, achieving resolution 2-3x higher with SIM and up to 5 nm with localization microscopy.</li><li>Features Total Internal Reflection Fluorescence (TIRF) to increase the signal-to-noise ratio near the cover glass.</li>|
+|||
+|---|---|
+|<img src="images/zeiss_elyra_PS1.png" alt="Zeiss Elyra PS.1" style="width:200px;">|**Zeiss Elyra PS.1**<br><li>Utilizes Structured Illumination Microscopy (SIM) and precise localization (PALM/STORM) to surpass the diffraction barrier, achieving resolution 2-3x higher with SIM and up to 5 nm with localization microscopy.</li><li>Features Total Internal Reflection Fluorescence (TIRF) to increase the signal-to-noise ratio near the cover glass.</li>|
 
 ### Ligthsheet microscopes
-||||
-|---|---|---|
-|Zeiss Lightsheet Z.1 |<img src="images/zeiss_lightsheet.png" alt="Zeiss Lightsheet Z.1" width="200">|<li> Ideal for rapid acquisition of fixed, living, or cleared samples using selective plane illumination.</li><li>Two pairs of 5x and 10x **illumination objectives** for flexible imaging.</li><li>Detection at 5x, 10x, 20x, and 40x magnifications, including two specialized 20x objectives for clearing with refractive indices (RI) of 1.38 and 1.45.</li><li>Sample chamber for specimens of up to 2x2x2cm volume.</li><li>Two-channel acquisition is powered by two cooled PCO cameras.</li>|
+|||
+|---|---|
+|<img src="images/zeiss_lightsheet.png" alt="Zeiss Lightsheet Z.1" width="200">|**Zeiss Lightsheet Z.1**<br><li> Ideal for rapid acquisition of fixed, living, or cleared samples using selective plane illumination.</li><li>Two pairs of 5x and 10x **illumination objectives** for flexible imaging.</li><li>Detection at 5x, 10x, 20x, and 40x magnifications, including two specialized 20x objectives for clearing with refractive indices (RI) of 1.38 and 1.45.</li><li>Sample chamber for specimens of up to 2x2x2cm volume.</li><li>Two-channel acquisition is powered by two cooled PCO cameras.</li>|
 
 ## 📖 Our workshops and courses
 * [Advanced Image analysis](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100T01)
