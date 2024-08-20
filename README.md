@@ -99,14 +99,14 @@ At our core facility, we offer advanced microscopy techniques, including super-r
 <table style="width:100%;">
 <tbody>
 <tr>
-<td align="left" style="width:25%;"><img src="images/Cell-R.png" alt="Olympus Scan^R" width=200px></td>
+<td align="left" style="width:25%;"><img src="images/Cell-R.png" alt="Olympus Scan^R"></td>
 <td align="left" style="width:75%;"><b>Olympus Scan^R</b><br><li>High-throughput and mosaic imaging with a high-sensitivity Hamamatsu camera.</li><li>Stabilized light source, motorized stage, filter, and objective turrets and shutters.</li><li>High-quality stage chamber with temperature regulation (-5 to 65 °C) and gas control (CO2, O2).</li><li>Supports multiwell dishes, suitable for varied environmental conditions.</li></td>
 </tr>
 <tr>
-<td align="left" style="width:25%;"><img src="images/Nikon TI2-E.png" alt="NIKON TiE2" width=200px></td><td align="left" style="width:75%;"><b>NIKON TiE2</b><br><li>High-speed monochromatic ORCA Flash camera (100 fps) and RGB camera.</li><li>Excitation Cool-LED P-4000 with 16 LEDs covering the full spectrum.</li><li>SEDAT system of emission filters and multiband dichroic.</li><li>OKOLab environmental chamber for living cell experiments.</li><li>Driven by NIS-elements software with High Content Imaging (JOBs module).</li></td>
+<td align="left" style="width:25%;"><img src="images/Nikon TI2-E.png" alt="NIKON TiE2"></td><td align="left" style="width:75%;"><b>NIKON TiE2</b><br><li>High-speed monochromatic ORCA Flash camera (100 fps) and RGB camera.</li><li>Excitation Cool-LED P-4000 with 16 LEDs covering the full spectrum.</li><li>SEDAT system of emission filters and multiband dichroic.</li><li>OKOLab environmental chamber for living cell experiments.</li><li>Driven by NIS-elements software with High Content Imaging (JOBs module).</li></td>
 </tr>
 <tr>
-<td align="left" style="width:25%;"><img src="images/zeiss_axioscanZ1.png" alt="ZEISS Axioscan Z.1" width=200px></td><td align="left" style="width:75%;"><b>ZEISS Axioscan Z.1</b><br><li>Fully automated microscope with dock for 100 slides, capable of autonomous scanning.</li><li>High-throughput imaging ideal for tissue sections.</li><li> Enables 3D reconstruction of scanned samples.</li><li>Enables 3D reconstruction of scanned samples.</li></td>
+<td align="left" style="width:25%;"><img src="images/zeiss_axioscanZ1.png" alt="ZEISS Axioscan Z.1"></td><td align="left" style="width:75%;"><b>ZEISS Axioscan Z.1</b><br><li>Fully automated microscope with dock for 100 slides, capable of autonomous scanning.</li><li>High-throughput imaging ideal for tissue sections.</li><li> Enables 3D reconstruction of scanned samples.</li><li>Enables 3D reconstruction of scanned samples.</li></td>
 </tr>
 </tbody>
 </table>
