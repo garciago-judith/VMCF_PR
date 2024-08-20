@@ -88,6 +88,14 @@ table th:nth-of-type(2) {
 |<img src="images/leica_sp2.png" alt="Leica SP2" style="width:200px;">|**Leica TCS SP2**<br><li>High-end inverted confocal microscope with AOBS system, allowing high sensitivity and the combination of up to four fluorescence markers.</li><li>Supports multicolor analysis, 3D reconstructions, FRAP, FRET, and tile scans.</li><li> Includes a 405 nm diode laser, ideal for structural analysis of fixed samples.</li>|
 
 ### Wide-field microscopes
+<style>
+table th:first-of-type {
+    width: 25%;
+}
+table th:nth-of-type(2) {
+    width: 75%;
+}
+</style>
 |||
 |---|---|
 |<img src="images/Cell-R.png" alt="Olympus Scan^R" style="width:200px;">|**Olympus Scan^R**<br><li>High-throughput and mosaic imaging with a high-sensitivity Hamamatsu camera. </li><li>Stabilized light source, motorized stage, filter, and objective turrets and shutters.</li><li>High-quality stage chamber with temperature regulation (-5 to 65 °C) and gas control (CO2, O2).</li><li>Supports multiwell dishes, suitable for varied environmental conditions.</li>|
