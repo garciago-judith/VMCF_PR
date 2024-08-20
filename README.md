@@ -99,7 +99,7 @@ At our core facility, we offer advanced microscopy techniques, including super-r
 <table style="width:100%;">
 <tbody>
 <tr>
-  <td align="left" style="width:200px;"><img src="images/Cell-R.png" alt="Olympus Scan^R"></td>
+  <td align="left" width="200px"><img src="images/Cell-R.png" alt="Olympus Scan^R"></td>
   <td align="left"><b>Olympus Scan^R</b><br>
     <ul>
       <li>High-throughput and mosaic imaging with a high-sensitivity Hamamatsu camera.</li>
@@ -110,7 +110,7 @@ At our core facility, we offer advanced microscopy techniques, including super-r
   </td>
 </tr>
 <tr>
-  <td align="left" style="width:200px;"><img src="images/Nikon TI2-E.png" alt="NIKON TiE2"></td>
+  <td align="left" width="200px"><img src="images/Nikon TI2-E.png" alt="NIKON TiE2"></td>
   <td align="left"><b>NIKON TiE2</b><br>
     <ul>
       <li>High-speed monochromatic ORCA Flash camera (100 fps) and RGB camera.</li>
@@ -122,7 +122,7 @@ At our core facility, we offer advanced microscopy techniques, including super-r
   </td>
 </tr>
 <tr>
-  <td align="left" style="width:200px;"><img src="images/zeiss_axioscanZ1.png" alt="ZEISS Axioscan Z.1"></td>
+  <td align="left" width="200px"><img src="images/zeiss_axioscanZ1.png" alt="ZEISS Axioscan Z.1"></td>
   <td align="left"><b>ZEISS Axioscan Z.1</b><br>
     <ul>
       <li>Fully automated microscope with dock for 100 slides, capable of autonomous scanning.</li> 
