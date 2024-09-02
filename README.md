@@ -7,6 +7,7 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 **Our Mission:** To offer consistent, high-quality microscopy and bioimage analysis services, enabling reproducible and impactful scientific research.
 
 ## 🤝 What we offer
+
 |<div align="center"><img src="images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>|<div align="center"><img src="images/services.png" alt="Services" height="50"><br>Services</div>|<div align="center"><img src="images/training.png" alt="Trainng" height="50"><br>Teaching</div>|
 |---|---|---|
 |<li>Sample preparation</li><li>Imaging techniques</li><li>[Bioimage analysis](#bioimage-analysis-consultancy)</li></ul>|<li>[Advanced imaging](#-advanced-imaging---available-light-microscopy-equipment)</li><li>[Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service)</li><li>Software and infrastructure access</li><li>User training</li>|<li>Personalized training</li><li>[Workshops and group courses](#-our-workshops-and-courses)</li>|
@@ -24,6 +25,9 @@ Our Image Analysis Consultancy provides personalized support to help you optimiz
   - **Sample Preparation and Image Acquisition**: Details on the specimen, staining methods, and microscopy used.
   - **Example Images**: Ideally, provide treated and untreated images that show a clear difference. If not applicable, show a range of images to illustrate data variability.
   - **Technical Details**: Clarify the specific numbers you wish to measure, the volume of data (e.g., 10, 100, 1,000 images), image sizes, preferred software, and any preliminary analysis attempts.
+
+Don't be stressed, if you're unsure what to bring, just come to us, we will help you 😊
+
 ### Image Data Preparation
 - **Organize Your Data**: Select a minimal set of representative images that clearly show biologically relevant differences.
 - **Suggested Folder Structure**:
@@ -88,13 +92,6 @@ At our core facility, we offer advanced microscopy techniques, including super-r
 </tbody>
 </table>
 
-
-<!-- |||
-|:-|:-----|
-|<img src="images/leica_sp8.png" alt="Leica SP8" width=400px>|**Leica TCS SP8**<br><li>High-end confocal microscope with standard PMT and sensitive HyD detector.</li><li>Supports fixed and living samples.</li><li>Environmental chamber (PECON) with CO2 regulation for live-cell experiments</li><li>Multiple modes: lambda scanning, FRET, FRAP.</li><li>Equipped with MATRIX module for object tracking (e.g., oocytes, roots).</li>|
-|<img src="images/zeiss_lsm880.png" alt="Zeiss LSM880" width=400px>|**Zeiss LSM 880 NLO**<br><li>Latest confocal microscope with one-photon and tunable Ti pulsed lasers for two-photon excitation.</li><li>High-sensitivity 32-channel GaAsp spectral detector.</li><li>Supports one-channel FLIM, FCS, and RICS measurements, enabling exploration of molecular relationships and functions.</li><li>Includes a live-cell imaging chamber with CO2 control.</li>|
-|<img src="images/leica_sp2.png" alt="Leica SP2" width=400>|**Leica TCS SP2**<br><li>High-end inverted confocal microscope with AOBS system, allowing high sensitivity and the combination of up to four fluorescence markers.</li><li>Supports multicolor analysis, 3D reconstructions, FRAP, FRET, and tile scans.</li><li> Includes a 405 nm diode laser, ideal for structural analysis of fixed samples.</li>| -->
-
 ### Wide-field microscopes
 <table style="width:100%;">
 <tbody>
@@ -135,12 +132,6 @@ At our core facility, we offer advanced microscopy techniques, including super-r
 </tbody>
 </table>
 
-<!-- |||
-|:-:|:----|
-|<img src="images/Cell-R.png" alt="Olympus Scan^R" width=400px>|**Olympus Scan^R**<br><li>High-throughput and mosaic imaging with a high-sensitivity Hamamatsu camera.</li><li>Stabilized light source, motorized stage, filter, and objective turrets and shutters.</li><li>High-quality stage chamber with temperature regulation (-5 to 65 °C) and gas control (CO2, O2).</li><li>Supports multiwell dishes, suitable for varied environmental conditions.</li>|
-|<img src="images/Nikon TI2-E.png" alt="NIKON TiE2" width=400px>|**NIKON TiE2**<br><li>High-speed monochromatic ORCA Flash camera (100 fps) and RGB camera.</li><li>Excitation Cool-LED P-4000 with 16 LEDs covering the full spectrum.</li><li>SEDAT system of emission filters and multiband dichroic.</li><li>OKOLab environmental chamber for living cell experiments.</li><li>Driven by NIS-elements software with High Content Imaging (JOBs module).</li>|
-|<img src="images/zeiss_axioscanZ1.png" alt="ZEISS Axioscan Z.1" width=400px>|**ZEISS Axioscan Z.1**<br><li>Fully automated microscope with dock for 100 slides, capable of autonomous scanning.</li><li>High-throughput imaging ideal for tissue sections.</li><li> Enables 3D reconstruction of scanned samples.</li><li>Enables 3D reconstruction of scanned samples.</li>| -->
-
 ### Super-resolution microscopes
 <table style="width:100%;">
 <tbody>
@@ -155,10 +146,6 @@ At our core facility, we offer advanced microscopy techniques, including super-r
 </tr>
 </tbody>
 </table>
-
-<!-- |||
-|---|---|
-|<img src="images/zeiss_elyra_PS1.png" alt="Zeiss Elyra PS.1" width=400px>|**Zeiss Elyra PS.1**<br><li>Utilizes Structured Illumination Microscopy (SIM) and precise localization (PALM/STORM) to surpass the diffraction barrier, achieving resolution 2-3x higher with SIM and up to 5 nm with localization microscopy.</li><li>Features Total Internal Reflection Fluorescence (TIRF) to increase the signal-to-noise ratio near the cover glass.</li>| -->
 
 ### Ligthsheet microscopes
 <table style="width:100%;">
@@ -178,10 +165,6 @@ At our core facility, we offer advanced microscopy techniques, including super-r
 </tbody>
 </table>
 
-<!-- |||
-|---|---|
-|<img src="images/zeiss_lightsheet.png" alt="Zeiss Lightsheet Z.1" width="200">|**Zeiss Lightsheet Z.1**<br><li> Ideal for rapid acquisition of fixed, living, or cleared samples using selective plane illumination.</li><li>Two pairs of 5x and 10x **illumination objectives** for flexible imaging.</li><li>Detection at 5x, 10x, 20x, and 40x magnifications, including two specialized 20x objectives for clearing with refractive indices (RI) of 1.38 and 1.45.</li><li>Sample chamber for specimens of up to 2x2x2cm volume.</li><li>Two-channel acquisition is powered by two cooled PCO cameras.</li>| -->
-
 ## 📖 Our workshops and courses
 * [Advanced Image analysis](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100T01)
 * [Molecular Probes in Biomedical Imaging](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100P09)
@@ -190,11 +173,56 @@ At our core facility, we offer advanced microscopy techniques, including super-r
 * [Fundamentals of bioimage analysis (workshop)](https://web.natur.cuni.cz/sekce-bi/VMCF/bioimage-analysis-fundamentals-2/)
 
 ## 👨‍💻 Our team
-|||
-|---|---|
-|<img src="images/burdikova.png" alt="Zuzana Burdikova" width="125">|**Zuzana Burdíková** <br> Email: zuzana.burdikova@natur.cuni.cz, X: @BurdikovaZuzana <br>%%%%team member description%%%%|
-|<img src="images/schatz.png" alt="Martin Schätz" width="125">|**Martin Schätz**<br> Email: martin.Schatz@natur.cuni.cz, X: @SchatzCz <br>%%%%team member description%%%%|
-|<img src="images/garcia.png" alt="Martin Schätz" width="125">|**Judith Garcia-Gonzalez**<br> Email: garciagj@natur.cuni.cz, X: @judith_garciago <br>%%%%team member description%%%%|
+<table style="width:100%;">
+<tbody>
+<tr>
+  <td align="left" width="25%"><img src="images/burdikova.png" alt="Zuzana Burdikova"></td>
+  <td align="left"><font size="4"><b>Zuzana Burdíkova</b></font><br>Email: zuzana.burdikova@natur.cuni.cz, X: @BurdikovaZuzana <br>Specialist in super-resolution microscopy, including STORM, SIM, and lightsheet imaging, with expertise in bioimage analysis, international collaboration, and mentoring in scientific research. 
+  </td>
+</tr>
+<tr>
+  <td align="left" width="25%"><img src="images/schatz.png" alt="Martin Schätz"></td>
+  <td align="left"><font size="4"><b>Martin Schätz</b></font><br>Email: martin.Schatz@natur.cuni.cz, X: @SchatzCz <br>Specializes in designing and implementing advanced workflows for user projects, advising on experimental design, and managing research data. His work includes teaching advanced image analysis techniques, research data management, open science and mentoring researchers on microscopy and data processing.
+  </td>
+</tr>
+<tr>
+  <td align="left" width="25%"><img src="images/garcia.png" alt="Judith Garcia-Gonzalez"></td>
+  <td align="left"><font size="4"><b>Judith Garcia-Gonzalez</b></font><br>Email: garciagj@natur.cuni.cz, X: @judith_garciago <br>Specializes in bioimage analysis with expertise in cell and cytoskeleton segmentation, and has extensive experience in studying protein dynamics and interactions using fluorescence microscopy. Her work also includes teaching both foundational and advanced bioimage analysis techniques.
+  </td>
+</tr>
+</tbody>
+</table>
+
+## 💲Pricelist
+<table style="width:100%;">
+  <tbody>
+    <tr>
+      <td align="left" width="25%"><b>Service</b></td>
+      <td align="left"><b>Description</b></td>
+      <td align="left" width="20%"><b>Rate (per hour)</b></td>
+    </tr>
+    <tr>
+      <td align="left" width="25%">Consultations</td>
+      <td align="left">Discussion with a computer scientist to define and understand the problem.</td>
+      <td align="left" width="20%">50 Kč</td>
+    </tr>
+    <tr>
+      <td align="left" width="25%">Workflow Establishment</td>
+      <td align="left">In-depth exploration of the problem, researching potential solutions, and setting up workflows.</td>
+      <td align="left" width="20%">101 Kč</td>
+    </tr>
+    <tr>
+      <td align="left" width="25%">Manual Analysis/Scripting</td>
+      <td align="left">Development of custom scripts or manual processing and analysis of images.</td>
+      <td align="left" width="20%">390 Kč</td>
+    </tr>
+    <tr>
+      <td align="left" width="25%">Computing Time</td>
+      <td align="left">Charges for the time spent running scripts or imaging program functions, billed per millisecond of processing time.</td>
+      <td align="left" width="20%">469 Kč</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 📩 Contact
 You can find us at: <br>
