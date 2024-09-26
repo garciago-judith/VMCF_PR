@@ -63,7 +63,7 @@ If you're unsure where to start, we recommend scheduling a short consultation to
 
 ### Guidelines for a healthy cooperation
 
-To ensure a smooth and productive partnership, please consider the following guidelines when publishing results derived from our collabotation:
+To ensure a smooth and productive partnership, please consider the following guidelines when publishing results derived from our collaboration:
 
 - **Acknowledgment**: Any publications resulting from the use of our tools or services should include an acknowledgment of the facility.
 - **Authorship**: If a team member provided significant intellectual input or contributed additional data (e.g., scripts, software, or numerical results), they should be acknowledged by name or considered for co-authorship.
@@ -72,6 +72,48 @@ To ensure a smooth and productive partnership, please consider the following gui
   - **Affiliations**: The primary affiliation for each author should be the institution where the majority of their work was conducted. If the author has since moved, their current address may also be included.
 
 ## 💻 Available software
+<table  style="width:100%;">
+<tbody>
+<tr>
+<td align="left" width="10%" height= 50><img src="images/arivis.png" alt="ZEISS Arivis Pro logo"></td>
+<td align="left" width="40%" height =50>ZEISS Arivis Pro</td>
+<td align="left" width="10%" height =50><img src="images/zen.png" alt="ZEISS ZEN logo"></td>
+<td align="left" width="40%" height =50>ZEISS ZEN</td>
+</tr>
+<tr>
+<td align="left" width="10%" height= 50><img src="images/SVI.png" alt="SVI Huygens logo"></td>
+<td align="left" width="40%" height =50>SVI Huygens Professional</td>
+<td align="left" width="10%" height =50><img src="images/nis.png" alt="NIS elements logo"></td>
+<td align="left" width="40%" height =50>NIS Elements</td>
+</tr>
+<tr>
+<td align="left" width="10%" height= 50><img src="images/SPCImage.png" alt="SPCImage logo"></td>
+<td align="left" width="40%" height =50>SPCImage FLIM analysis</td>
+<td align="left" width="10%" height =50><img src="images/BIOP-desktop.png" alt="BIOP Desktop logo"></td>
+<td align="left" width="40%" height =50>BIOP-Desktop</td>
+</tr>
+<tr>
+<td align="left" width="10%" height= 50><img src="images/fiji.png" alt="FIJI logo"></td>
+<td align="left" width="40%" height =50>ImageJ/FIJI</td>
+<td align="left" width="10%" height =50><img src="images/napari.png" alt="Napari logo"></td>
+<td align="left" width="40%" height =50>Napari</td>
+</tr>
+<tr>
+<td align="left" width="10%" height= 50><img src="images/cellpose.png" alt="Cellpose logo"></td>
+<td align="left" width="40%" height =50>Cellpose</td>
+<td align="left" width="10%" height =50><img src="images/ilastik.png" alt="Ilastik logo"></td>
+<td align="left" width="40%" height =50>Ilastik</td>
+</tr>
+<tr>
+<td align="left" width="10%" height= 50><img src="images/qupath.png" alt="QuPath logo"></td>
+<td align="left" width="40%" height =50>QuPath</td>
+<td align="left" width="10%" height =50></td>
+<td align="left" width="40%" height =50>and more...</td>
+</tr>
+</tbody>
+</table>
+
+## 💾 Data storage
   
 ## 🔬 Advanced imaging - available light microscopy equipment
 At our core facility, we offer advanced microscopy techniques, including super-resolution, confocal, and high-throughput imaging. Our team is here to help you select the best tools and fine-tune your workflows, ensuring you get the most valuable insights from your samples.
@@ -177,12 +219,12 @@ At our core facility, we offer advanced microscopy techniques, including super-r
 <tbody>
 <tr>
   <td align="left" width="25%"><img src="images/burdikova.png" alt="Zuzana Burdikova"></td>
-  <td align="left"><font size="4"><b>Zuzana Burdíkova</b></font><br>Email: zuzana.burdikova@natur.cuni.cz, X: @BurdikovaZuzana <br>Specialist in super-resolution microscopy, including STORM, SIM, and lightsheet imaging, with expertise in bioimage analysis, international collaboration, and mentoring in scientific research. 
+  <td align="left"><font size="4"><b>Zuzana Burdíkova</b></font><br>Email: zuzana.burdikova@natur.cuni.cz, X: @BurdikovaZuzana  <br>Specialist in super-resolution microscopy, including STORM, SIM, and lightsheet imaging, with expertise in bioimage analysis, international collaboration, and mentoring in scientific research. 
   </td>
 </tr>
 <tr>
   <td align="left" width="25%"><img src="images/schatz.png" alt="Martin Schätz"></td>
-  <td align="left"><font size="4"><b>Martin Schätz</b></font><br>Email: martin.Schatz@natur.cuni.cz, X: @SchatzCz <br>Specializes in designing and implementing advanced workflows for user projects, advising on experimental design, and managing research data. His work includes teaching advanced image analysis techniques, research data management, open science and mentoring researchers on microscopy and data processing.
+  <td align="left"><font size="4"><b>Martin Schätz</b></font><br>Email: martin.Schatz@natur.cuni.cz, X: @SchatzCz, ORCID:0000-0003-0931-4017 <br>Specializes in designing and implementing advanced workflows for user projects, advising on experimental design, and managing research data. His work includes teaching advanced image analysis techniques, research data management, open science and mentoring researchers on microscopy and data processing.
   </td>
 </tr>
 <tr>
@@ -203,7 +245,7 @@ At our core facility, we offer advanced microscopy techniques, including super-r
     </tr>
     <tr>
       <td align="left" width="25%">Consultations</td>
-      <td align="left">Discussion with a computer scientist to define and understand the problem.</td>
+      <td align="left">Discussion with a bioimage analyst to define and understand the problem.</td>
       <td align="left" width="20%">50 Kč</td>
     </tr>
     <tr>
@@ -234,7 +276,7 @@ Czech Republic<br>
 
 For any inquiries or to schedule a consultation, please reach out through the following:
 
-- **Email**: [email@example.com](mailto:email@example.com)
+<!-- - **Email**: [email@example.com](mailto:email@example.com) -->
 - **Schedule a Meeting**: [Calendly](https://calendly.com/)
 - **Consultancy Guidelines**: Please review the [Bioimage Analysis Consultancy](#bioimage-analysis-consultancy) section before booking a consultation.
 
