@@ -10,7 +10,7 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 
 |<div align="center"><img src="images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>|<div align="center"><img src="images/services.png" alt="Services" height="50"><br>Services</div>|<div align="center"><img src="images/training.png" alt="Trainng" height="50"><br>Teaching</div>|
 |---|---|---|
-|<li>Sample preparation</li><li>Imaging techniques</li><li>[Bioimage analysis](#bioimage-analysis-consultancy)</li></ul>|<li>[Advanced imaging](#-advanced-imaging---available-light-microscopy-equipment)</li><li>[Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service)</li><li>[Software and infrastructure access](#-available-software)</li><li>User training</li>|<li>[Personalized training](#-individual-trainings)</li><li>[Workshops and group courses](#-courses-and-seminars)</li>|
+|<li>Sample preparation</li><li>Imaging techniques</li><li>[Bioimage analysis](#bioimage-analysis-consultancy)</li></ul>|<li>[Advanced imaging](#-advanced-imaging---available-light-microscopy-equipment)</li><li>[Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service)</li><li>[Software and infrastructure access](#-available-software)</li><li>User training</li>|<li>[Personalized training](#individual-trainings)</li><li>[Workshops and group courses](#courses-and-seminars)</li>|
 
 ## 💡Bioimage Analysis Consultancy
 Our Image Analysis Consultancy provides personalized support to help you optimize and navigate your bioimage analysis workflows. Whether you're establishing new processes or refining existing ones, we're here to assist every step of the way.
