@@ -10,7 +10,7 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 
 |<div align="center"><img src="images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>|<div align="center"><img src="images/services.png" alt="Services" height="50"><br>Services</div>|<div align="center"><img src="images/training.png" alt="Trainng" height="50"><br>Teaching</div>|
 |---|---|---|
-|<li>Sample preparation</li><li>Imaging techniques</li><li>[Bioimage analysis](#bioimage-analysis-consultancy)</li></ul>|<li>[Advanced imaging](#-advanced-imaging---available-light-microscopy-equipment)</li><li>[Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service)</li><li>Software and infrastructure access</li><li>User training</li>|<li>Personalized training</li><li>[Workshops and group courses](#-our-workshops-and-courses)</li>|
+|<li>Sample preparation</li><li>Imaging techniques</li><li>[Bioimage analysis](#bioimage-analysis-consultancy)</li></ul>|<li>[Advanced imaging](#-advanced-imaging---available-light-microscopy-equipment)</li><li>[Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service)</li><li>[Software and infrastructure access](#-available-software)</li><li>User training</li>|<li>[Personalized training](#-individual-trainings)</li><li>[Workshops and group courses](#-courses-and-seminars)</li>|
 
 ## 💡Bioimage Analysis Consultancy
 Our Image Analysis Consultancy provides personalized support to help you optimize and navigate your bioimage analysis workflows. Whether you're establishing new processes or refining existing ones, we're here to assist every step of the way.
@@ -39,7 +39,11 @@ Don't be stressed, if you're unsure what to bring, just come to us, we will help
   │   └── condition02_image01.tif
   └── README.txt
 ## 🖥️ Bioimage Analysis service
-We offer a variety of open-access services to fit the specific needs of your projects. Our services include:
+Our facility offers a wide range of open-access services designed to meet the unique requirements of your bioimaging projects. Whether you need assistance with image analysis, workflow setup, or custom tool development, our team is here to support you.
+
+We provide expert consultations and training, and can develop tailored image analysis workflows to fit your specific scientific goals. Our infrastructure, equipped with cutting-edge workstations, High Performance Computing, and a variety of bioimage analysis tools, allows for remote access and seamless data handling from anywhere.
+
+In line with the principles of open science, we adhere to the FAIR guidelines, ensuring that our services and solutions promote data transparency, accessibility, and reusability.
 
 - **Consultations**:
   - Get help choosing the right software, plugins, and tools for your tasks.
@@ -207,12 +211,24 @@ At our core facility, we offer advanced microscopy techniques, including super-r
 </tbody>
 </table>
 
-## 📖 Our workshops and courses
-* [Advanced Image analysis](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100T01)
-* [Molecular Probes in Biomedical Imaging](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100P09)
-* [Quantitative Microscopy](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100P08)
+## 📖 Training
+Our core facility offers a variety of training options that are tailored to meet the unique needs of our users. Whether you're a seasoned microscopist looking to improve your workflow or a first-time user, we have courses and workshops specifically designed for you.
+
+### Individual trainings
+* User-defined training sessions
+* How to: BIOP-Desktop in [Metacentrum OnDemand](http://ondemand.metacentrum.cz/)
+* How to: Jupyter Hub
+
+### Courses and seminars
+Our courses, seminars, and workshops are designed to provide an in-depth understanding of bioimage analysis, with a focus on practical applications for interpreting microscopy data.
+
+* [4EU+ Advanced Image analysis](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100T01)
+* [4EU+ Molecular Probes in Biomedical Imaging](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100P09)
+* [4EU+ Quantitative Microscopy](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100P08)
 * [Image Analysis and Data Processing in Super-Resolution Microscopy (workshop)](https://vmcf-konfmi.github.io/workshop-IADPSRM/intro.html)
 * [Fundamentals of bioimage analysis (workshop)](https://web.natur.cuni.cz/sekce-bi/VMCF/bioimage-analysis-fundamentals-2/)
+
+
 
 ## 👨‍💻 Our team
 <table style="width:100%;">
