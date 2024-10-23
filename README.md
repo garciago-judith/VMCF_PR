@@ -8,9 +8,16 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 
 ## 📦 What we offer
 
-|<div align="center"><img src="images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>|<div align="center"><img src="images/services.png" alt="Services" height="50"><br>Services</div>|<div align="center"><img src="images/training.png" alt="Trainng" height="50"><br>Teaching</div>|
-|---|---|---|
-|<li>Sample preparation</li><li>Imaging techniques</li><li>[Bioimage analysis](#bioimage-analysis-consultancy)</li></ul>|<li>[Advanced imaging](#-advanced-imaging---available-light-microscopy-equipment)</li><li>[Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service)</li><li>[Software and infrastructure access](#-available-software)</li><li>User training</li>|<li>[Personalized training](#individual-trainings)</li><li>[Workshops and group courses](#courses-and-seminars)</li>|
+[//]: # (| <div align="center"><img src="images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>           | <div align="center"><img src="images/services.png" alt="Services" height="50"><br>Services</div>                                                                                                                                                  | <div align="center"><img src="images/training.png" alt="Trainng" height="50"><br>Teaching</div>                      |)
+
+[//]: # (|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|)
+
+[//]: # (| <li>Sample preparation</li><li>Imaging techniques</li><li>[Bioimage analysis]&#40;#bioimage-analysis-consultancy&#41;</li></ul> | <li>[Advanced imaging]&#40;#-advanced-imaging---available-light-microscopy-equipment&#41;</li><li>[Bioimage analysis]&#40;#%EF%B8%8F-bioimage-analysis-service&#41;</li><li>[Software and infrastructure access]&#40;#-available-software&#41;</li><li>User training</li> | <li>[Personalized training]&#40;#individual-trainings&#41;</li><li>[Workshops and group courses]&#40;#courses-and-seminars&#41;</li> |)
+
+
+| <div align="center"><img src="images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>           | <div align="center"><img src="images/services.png" alt="Services" height="50"><br>Services</div>                                                                                     | <div align="center"><img src="images/training.png" alt="Trainng" height="50"><br>Teaching</div>                      |
+|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| <li>Sample preparation</li><li>Imaging techniques</li><li>[Bioimage analysis](#bioimage-analysis-consultancy)</li></ul> | <li>Advanced imaging</li><li>[Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service)</li><li>[Software and infrastructure access](#-available-software)</li><li>User training</li> | <li>[Personalized training](#individual-trainings)</li><li>[Workshops and group courses](#courses-and-seminars)</li> |
 
 ## 💡Bioimage Analysis Consultancy
 Our Image Analysis Consultancy provides personalized support to help you optimize and navigate your bioimage analysis workflows. Whether you're establishing new processes or refining existing ones, we're here to assist every step of the way.
@@ -80,7 +87,7 @@ To ensure a smooth and productive partnership, please consider the following gui
 <tbody>
 <tr>
 <td align="left" width="10%" height= 50><img src="images/arivis.png" alt="ZEISS Arivis Pro logo"></td>
-<td align="left" width="40%" height =50>ZEISS Arivis Pro</td>
+<td align="left" width="40%" height =50>**ZEISS Arivis Pro** <br> A powerful 3D/4D visualization and analysis tool for large biological datasets. It enables efficient segmentation, tracking, and quantification, supporting high-resolution microscopy workflows for complex biological research.</td>
 <td align="left" width="10%" height =50><img src="images/zen.png" alt="ZEISS ZEN logo"></td>
 <td align="left" width="40%" height =50>ZEISS ZEN</td>
 </tr>
@@ -430,4 +437,4 @@ For any inquiries or to schedule a consultation, please reach out through the fo
 - **Consultancy Guidelines**: Please review the [Bioimage Analysis Consultancy](#bioimage-analysis-consultancy) section before booking a consultation.
 
 ## 🔗 More information and latest news
-<img src="images/github_logo.svg" alt="GitHub Logo" width="20" height="20"> &nbsp; [VMCF GitHub] (https://github.com/vmcf-konfmi)<br><img src="images/X_logo.svg" alt="X Logo" width="20" height="20">  &nbsp; [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
+<img src="images/github_logo.svg" alt="GitHub Logo" width="20" height="20"> &nbsp; [VMCF GitHub](https://github.com/vmcf-konfmi)<br><img src="images/X_logo.svg" alt="X Logo" width="20" height="20">  &nbsp; [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
