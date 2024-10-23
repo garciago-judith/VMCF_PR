@@ -6,7 +6,7 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 
 **Our Mission:** To offer consistent, high-quality microscopy and bioimage analysis services, enabling reproducible and impactful scientific research.
 
-## 🤝 What we offer
+## 📦 What we offer
 
 |<div align="center"><img src="images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>|<div align="center"><img src="images/services.png" alt="Services" height="50"><br>Services</div>|<div align="center"><img src="images/training.png" alt="Trainng" height="50"><br>Teaching</div>|
 |---|---|---|
@@ -341,6 +341,49 @@ Our courses, seminars, and workshops are designed to provide an in-depth underst
 </tbody>
 </table>
 
+## 🤝 Cooperations
+<table style="width:100%;">
+<tbody>
+<tr>
+<td align="left" width="15%" height=50><img src="images/masaryk.png" alt="Masaryk University logo"></td>
+<td align="left" width="35%" height=50>Faculty of Informatics | Masaryk University</td>
+<td align="left" width="15%" height=50><img src="images/laboratory_imaging.png" alt="Laboratory Imaging logo"></td>
+<td align="left" width="35%" height=50>Laboratory Imaging s.r.o.</td>
+</tr>
+<tr>
+<td align="left" width="15%" height=50><img src="images/biomt.png" alt="bioMT Dartmouth logo"></td>
+<td align="left" width="35%" height=50>bioMT, Geisel School of Medicine at Dartmouth College</td>
+<td align="left" width="15%" height=50><img src="images/pragolab.png" alt="Pragolab logo"></td>
+<td align="left" width="35%" height=50>Pragolab s.r.o.</td>
+</tr>
+<tr>
+<td align="left" width="15%" height=50><img src="images/optixs.png" alt="OptiXs logo"></td>
+<td align="left" width="35%" height=50>OptiXs, s. r. o.</td>
+<td align="left" width="15%" height=50><img src="images/zeiss.png" alt="Carl Zeiss logo"></td>
+<td align="left" width="35%" height=50>Carl Zeiss spol. s r. o.</td>
+</tr>
+<tr>
+<td align="left" width="15%" height=50><img src="images/lmu.png" alt="LMU Munich logo"></td>
+<td align="left" width="35%" height=50>Quantitative and Molecular Biosciences Munich (LMU University)</td>
+<td align="left" width="15%" height=50><img src="images/ipht.png" alt="IPHT logo"></td>
+<td align="left" width="35%" height=50>Leibniz Institute of Photonic Technology (IPHT)</td>
+</tr>
+<tr>
+<td align="left" width="15%" height=50><img src="images/maker_institute.png" alt="Maker Institute logo"></td>
+<td align="left" width="35%" height=50>Maker Institute</td>
+<td align="left" width="15%" height=50><img src="images/uzh.png" alt="University of Zurich logo"></td>
+<td align="left" width="35%" height=50>University of Zurich (UZH)</td>
+</tr>
+<tr>
+<td align="left" width="15%" height=50><img src="images/tudresden.jpg" alt="TU Dresden logo"></td>
+<td align="left" width="35%" height=50>Technische Universität Dresden — TU Dresden</td>
+<td align="left" width="15%" height=50></td>
+<td align="left" width="35%" height=50></td>
+</tr>
+</tbody>
+</table>
+
+
 ## 💲Pricelist
 <table style="width:100%;">
   <tbody>
@@ -387,4 +430,4 @@ For any inquiries or to schedule a consultation, please reach out through the fo
 - **Consultancy Guidelines**: Please review the [Bioimage Analysis Consultancy](#bioimage-analysis-consultancy) section before booking a consultation.
 
 ## 🔗 More information and latest news
-<img src="images/github_logo.svg" alt="GitHub Logo" width="20" height="20"> &nbsp; [VMCF GitHub](https://github.com/vmcf-konfmi)<br><img src="images/X_logo.svg" alt="X Logo" width="20" height="20">  &nbsp; [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
+<img src="images/github_logo.svg" alt="GitHub Logo" width="20" height="20"> &nbsp; [VMCF GitHub] (https://github.com/vmcf-konfmi)<br><img src="images/X_logo.svg" alt="X Logo" width="20" height="20">  &nbsp; [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
