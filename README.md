@@ -87,7 +87,7 @@ To ensure a smooth and productive partnership, please consider the following gui
 <tbody>
 <tr>
 <td align="left" width="10%" height= 50><img src="images/arivis.png" alt="ZEISS Arivis Pro logo"></td>
-<td align="left" width="40%" height =50>**ZEISS Arivis Pro** <br> A powerful 3D/4D visualization and analysis tool for large biological datasets. It enables efficient segmentation, tracking, and quantification, supporting high-resolution microscopy workflows for complex biological research.</td>
+<td align="left" width="40%" height =50><b>ZEISS Arivis Pro</b> <br> A powerful 3D/4D visualization and analysis tool for large biological datasets. It enables efficient segmentation, tracking, and quantification, supporting high-resolution microscopy workflows for complex biological research.</td>
 <td align="left" width="10%" height =50><img src="images/zen.png" alt="ZEISS ZEN logo"></td>
 <td align="left" width="40%" height =50>ZEISS ZEN</td>
 </tr>
