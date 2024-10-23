@@ -91,7 +91,7 @@ To ensure a smooth and productive partnership, please consider the following gui
 </tr>
 <tr>
 <td align="center" width="20%" height="9%"><img src="images/zen.png" alt="ZEISS ZEN logo"></td>
-<td align="left" width="80%" height =20><b>ZEISS ZEN</b><br> A comprehensive software platform for controlling microscopes, image acquisition, and processing. It offers versatile tools for handling multi-dimensional datasets, enabling seamless integration into advanced microscopy workflows.</td>
+<td align="left" width="80%" height ="9%"><b>ZEISS ZEN</b><br> A comprehensive software platform for controlling microscopes, image acquisition, and processing. It offers versatile tools for handling multi-dimensional datasets, enabling seamless integration into advanced microscopy workflows.</td>
 </tr>
 <tr>
 <td align="center" width="20%" height="9%"><img src="images/SVI.png" alt="SVI Huygens logo"></td>
