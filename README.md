@@ -115,19 +115,19 @@ To ensure a smooth and productive partnership, please consider the following gui
 </tr>
 <tr>
 <td align="center" width="20%" height =20><img src="images/napari.png" alt="Napari logo"></td>
-<td align="left" width="80%" height =20>Napari</td>
+<td align="left" width="80%" height =20><b>Napari</b> <br>An interactive, n-dimensional image viewer optimized for scientific imaging. It offers fast, extensible visualization and analysis capabilities, making it an excellent tool for microscopy data exploration and annotation.</td>
 </tr>
 <tr>
 <td align="center" width="20%" height= 20><img src="images/cellpose.png" alt="Cellpose logo"></td>
-<td align="left" width="80%" height =20>Cellpose</td>
+<td align="left" width="80%" height =20><b>CellPose</b> <br>A deep learning-based segmentation tool that automates cell and nucleus detection across various imaging conditions. It delivers robust results without extensive parameter tuning, making it accessible for non-expert users.</td>
 </tr>
 <tr>
 <td align="center" width="20%" height =20><img src="images/ilastik.png" alt="Ilastik logo"></td>
-<td align="left" width="80%" height =20>Ilastik</td>
+<td align="left" width="80%" height =20><b>Ilastik</b><br>A machine learning-based image analysis tool designed for ease of use. It enables interactive classification, segmentation, and tracking of large datasets, requiring no programming expertise to perform complex analyses.</td>
 </tr>
 <tr>
 <td align="center" width="20%" height= 20><img src="images/qupath.png" alt="QuPath logo"></td>
-<td align="left" width="80%" height =20>QuPath</td>
+<td align="left" width="80%" height =20><b>QuPath</b><br>A digital pathology platform that facilitates tissue detection, cell segmentation, and quantitative analysis. It is optimized for analyzing whole slide images, offering tools for biomarker quantification and image annotation.</td>
 </tr>
 <tr>
 <td align="center" width="20%" height =20></td>
