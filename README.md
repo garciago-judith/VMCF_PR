@@ -122,8 +122,8 @@ To ensure a smooth and productive partnership, please consider the following gui
 <td align="left" width="80%" height =20><b>CellPose</b> <br>A deep learning-based segmentation tool that automates cell and nucleus detection across various imaging conditions. It delivers robust results without extensive parameter tuning, making it accessible for non-expert users.</td>
 </tr>
 <tr>
-<td align="center" width="20%" style="height: 50px;"><img src="images/ilastik.png" alt="Ilastik logo"></td>
-<td align="left" width="80%" height =20><b>Ilastik</b><br>A machine learning-based image analysis tool designed for ease of use. It enables interactive classification, segmentation, and tracking of large datasets, requiring no programming expertise to perform complex analyses.</td>
+<td align="center" width="20%" height =20><img src="images/ilastik.png" alt="Ilastik logo"></td>
+<td style="text-align: center;" width="80%" height =20><b>Ilastik</b><br>A machine learning-based image analysis tool designed for ease of use. It enables interactive classification, segmentation, and tracking of large datasets, requiring no programming expertise to perform complex analyses.</td>
 </tr>
 <tr>
 <td align="center" width="20%" height= 20><img src="images/qupath.png" alt="QuPath logo"></td>
