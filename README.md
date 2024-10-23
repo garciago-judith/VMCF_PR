@@ -94,7 +94,7 @@ To ensure a smooth and productive partnership, please consider the following gui
 <td align="left" width="80%" height =20><b>ZEISS ZEN</b><br> A comprehensive software platform for controlling microscopes, image acquisition, and processing. It offers versatile tools for handling multi-dimensional datasets, enabling seamless integration into advanced microscopy workflows.</td>
 </tr>
 <tr>
-<td align="left" width="20%" height= 20><img src="images/SVI.png" alt="SVI Huygens logo"></td>
+<td align="center" width="20%" height= 20><img src="images/SVI.png" alt="SVI Huygens logo"></td>
 <td align="left" width="80%" height =20><b>SVI Huygens Professional</b><br>This tool enhances the quality of fluorescence microscopy images through deconvolution, improving resolution and signal-to-noise ratios. It supports a wide range of imaging modalities and formats for accurate restoration.</td>
 </tr>
 <tr>
@@ -102,35 +102,35 @@ To ensure a smooth and productive partnership, please consider the following gui
 <td align="left" width="80%" height =20><b>NIS Elements</b><br>An advanced image acquisition and analysis platform that integrates microscope control with powerful data processing tools. It is ideal for complex imaging workflows in biological and medical research applications.</td>
 </tr>
 <tr>
-<td align="left" width="20%" height= 20><img src="images/SPCImage.png" alt="SPCImage logo"></td>
+<td align="center" width="20%" height= 20><img src="images/SPCImage.png" alt="SPCImage logo"></td>
 <td align="left" width="80%" height =20><b>SPCImage FLIM analysis</b><br>Specializes in fluorescence lifetime imaging analysis, providing tools to interpret fluorescence decay curves and generate lifetime maps. This enables insights into molecular interactions and dynamic biological processes.</td>
 </tr>
 <tr>
-<td align="left" width="20%" height =20><img src="images/BIOP-desktop.png" alt="BIOP Desktop logo"></td>
+<td align="center" width="20%" height =20><img src="images/BIOP-desktop.png" alt="BIOP Desktop logo"></td>
 <td align="left" width="80%" height =20><b>BIOP-Desktop</b><br>A pre-configured computing environment delivered as a Docker image, designed to streamline bioimage analysis. It ensures reproducibility and collaboration by providing a ready-to-use platform with essential imaging tools installed.</td>
 </tr>
 <tr>
-<td align="left" width="20%" height= 20><img src="images/fiji.png" alt="FIJI logo"></td>
+<td align="center" width="20%" height= 20><img src="images/fiji.png" alt="FIJI logo"></td>
 <td align="left" width="80%" height =20><b>ImageJ/FIJI</b><br>A widely-used open-source platform for scientific image analysis, extending ImageJ with numerous plugins for advanced processing. It is highly adaptable for handling diverse imaging workflows </td>
 </tr>
 <tr>
-<td align="left" width="20%" height =20><img src="images/napari.png" alt="Napari logo"></td>
+<td align="center" width="20%" height =20><img src="images/napari.png" alt="Napari logo"></td>
 <td align="left" width="80%" height =20>Napari</td>
 </tr>
 <tr>
-<td align="left" width="20%" height= 20><img src="images/cellpose.png" alt="Cellpose logo"></td>
+<td align="center" width="20%" height= 20><img src="images/cellpose.png" alt="Cellpose logo"></td>
 <td align="left" width="80%" height =20>Cellpose</td>
 </tr>
 <tr>
-<td align="left" width="20%" height =20><img src="images/ilastik.png" alt="Ilastik logo"></td>
+<td align="center" width="20%" height =20><img src="images/ilastik.png" alt="Ilastik logo"></td>
 <td align="left" width="80%" height =20>Ilastik</td>
 </tr>
 <tr>
-<td align="left" width="20%" height= 20><img src="images/qupath.png" alt="QuPath logo"></td>
+<td align="center" width="20%" height= 20><img src="images/qupath.png" alt="QuPath logo"></td>
 <td align="left" width="80%" height =20>QuPath</td>
 </tr>
 <tr>
-<td align="left" width="20%" height =20></td>
+<td align="center" width="20%" height =20></td>
 <td align="left" width="80%" height =20>and more...</td>
 </tr>
 </tbody>
