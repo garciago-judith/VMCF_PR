@@ -1,4 +1,4 @@
-# <img src="images/VMCF_logo_bg.svg" alt="VMCF Logo" height="40"><br> Viničná Microscopy Core Facility
+# <img src="images/VMCF_logo_bg.svg" alt="VMCF Logo" height="40"><br>Bioimage Analysis @ Viničná Microscopy Core Facility
 
 ## 🚀 About Us
 
