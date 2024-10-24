@@ -2,7 +2,7 @@
 
 ## 🚀 About Us
 
-Welcome to the Viničná Microscopy Core Facility! We are an open-access resource specializing in advanced microscopy and bioimage analysis. As part of the Laboratory of Confocal and Fluorescence Microscopy, we offer a wide range of services, including cutting-edge imaging technologies and expert analytical support to meet your research needs.
+Welcome to Viničná Microscopy Core Facility's BioImage Analysis service! We specialize in assisting academics with all stages of image analysis, from simple jobs to complicated solutions and workflows. Our expertise in advanced image processing and data extraction ensures that you can derive useful information from your microscope data. Whether you require basic analysis or complete, specialized solutions, we can provide the infrastructure and analytical support you need to address your research questions.
 
 **Our Mission:** To offer consistent, high-quality microscopy and bioimage analysis services, enabling reproducible and impactful scientific research.
 
