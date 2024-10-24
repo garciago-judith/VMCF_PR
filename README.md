@@ -449,4 +449,8 @@ For any inquiries or to schedule a consultation, please reach out through the fo
 - **Consultancy Guidelines**: Please review the [Bioimage Analysis Consultancy](#bioimage-analysis-consultancy) section before booking a consultation.
 
 ## 🔗 More information and latest news
-<img src="images/github_logo.svg" alt="GitHub Logo" width="20" height="20"> &nbsp; [VMCF GitHub](https://github.com/vmcf-konfmi)<br><img src="images/X_logo.svg" alt="X Logo" width="20" height="20">  &nbsp; [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
+<img src="images/github_logo.svg" alt="GitHub Logo" width="20" height="20"> &nbsp; [VMCF GitHub](https://github.com/vmcf-konfmi)<br>
+<img src="images/X_logo.svg" alt="X Logo" width="20" height="20">  &nbsp; [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)<br>
+<img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)
+
+[//]: # (<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Laboratory of Confocal and Fluorescence Microscopy &#40;KONFMI&#41;]&#40;https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en&#41;)
