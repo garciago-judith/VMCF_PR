@@ -86,52 +86,52 @@ To ensure a smooth and productive partnership, please consider the following gui
 <table  style="width:100%;">
 <tbody>
 <tr>
-<td align="center" width="20%" height= "9%"><img src="images/arivis.png" alt="ZEISS Arivis Pro logo"></td>
-<td align="left" width="80%" height="9%"><b>ZEISS Arivis Pro</b> <br>A powerful 3D/4D visualization and analysis tool for large biological datasets. It enables efficient segmentation, tracking, and quantification, supporting high-resolution microscopy workflows for complex biological research.</td>
+<td align="center" width="20%"><img src="images/arivis.png" alt="ZEISS Arivis Pro logo"></td>
+<td align="left" width="80%"><b>ZEISS Arivis Pro</b> <br>A powerful 3D/4D visualization and analysis tool for large biological datasets. It enables efficient segmentation, tracking, and quantification, supporting high-resolution microscopy workflows for complex biological research.</td>
 </tr>
 <tr>
-<td align="center" width="20%" height="9%"><img src="images/zen.png" alt="ZEISS ZEN logo"></td>
-<td align="left" width="80%" height ="9%"><b>ZEISS ZEN</b><br> A comprehensive software platform for controlling microscopes, image acquisition, and processing. It offers versatile tools for handling multi-dimensional datasets, enabling seamless integration into advanced microscopy workflows.</td>
+<td align="center" width="20%"><img src="images/zen.png" alt="ZEISS ZEN logo"></td>
+<td align="left" width="80%"><b>ZEISS ZEN</b><br> A comprehensive software platform for controlling microscopes, image acquisition, and processing. It offers versatile tools for handling multi-dimensional datasets, enabling seamless integration into advanced microscopy workflows.</td>
 </tr>
 <tr>
-<td align="center" width="20%" height="9%"><img src="images/SVI.png" alt="SVI Huygens logo"></td>
-<td align="left" width="80%" height="9%"><b>SVI Huygens Professional</b><br>This tool enhances the quality of fluorescence microscopy images through deconvolution, improving resolution and signal-to-noise ratios. It supports a wide range of imaging modalities and formats for accurate restoration.</td>
+<td align="center" width="20%"><img src="images/SVI.png" alt="SVI Huygens logo"></td>
+<td align="left" width="80%"><b>SVI Huygens Professional</b><br>This tool enhances the quality of fluorescence microscopy images through deconvolution, improving resolution and signal-to-noise ratios. It supports a wide range of imaging modalities and formats for accurate restoration.</td>
 </tr>
 <tr>
-<td align="center" width="20%" height="9%"><img src="images/nis.png" alt="NIS elements logo"></td>
-<td align="left" width="80%" height="9%"><b>NIS Elements</b><br>An advanced image acquisition and analysis platform that integrates microscope control with powerful data processing tools. It is ideal for complex imaging workflows in biological and medical research applications.</td>
+<td align="center" width="20%"><img src="images/nis.png" alt="NIS elements logo"></td>
+<td align="left" width="80%"><b>NIS Elements</b><br>An advanced image acquisition and analysis platform that integrates microscope control with powerful data processing tools. It is ideal for complex imaging workflows in biological and medical research applications.</td>
 </tr>
 <tr>
-<td align="center" width="20%" height="9%"><img src="images/SPCImage.png" alt="SPCImage logo"></td>
-<td align="left" width="80%" height="9%"><b>SPCImage FLIM analysis</b><br>Specializes in fluorescence lifetime imaging analysis, providing tools to interpret fluorescence decay curves and generate lifetime maps. This enables insights into molecular interactions and dynamic biological processes.</td>
+<td align="center" width="20%"><img src="images/SPCImage.png" alt="SPCImage logo"></td>
+<td align="left" width="80%"><b>SPCImage FLIM analysis</b><br>Specializes in fluorescence lifetime imaging analysis, providing tools to interpret fluorescence decay curves and generate lifetime maps. This enables insights into molecular interactions and dynamic biological processes.</td>
 </tr>
 <tr>
-<td align="center" width="20%" height="9%"><img src="images/BIOP-desktop.png" alt="BIOP Desktop logo"></td>
-<td align="left" width="80%" height="9%"><b>BIOP-Desktop</b><br>A pre-configured computing environment delivered as a Docker image, designed to streamline bioimage analysis. It ensures reproducibility and collaboration by providing a ready-to-use platform with essential imaging tools installed.</td>
+<td align="center" width="20%"><img src="images/BIOP-desktop.png" alt="BIOP Desktop logo"></td>
+<td align="left" width="80%"><b>BIOP-Desktop</b><br>A pre-configured computing environment delivered as a Docker image, designed to streamline bioimage analysis. It ensures reproducibility and collaboration by providing a ready-to-use platform with essential imaging tools installed.</td>
 </tr>
 <tr>
-<td align="center" width="20%" height="9%"><img src="images/fiji.png" alt="FIJI logo"></td>
-<td align="left" width="80%" height="9%"><b>ImageJ/FIJI</b><br>A widely-used open-source platform for scientific image analysis, extending ImageJ with numerous plugins for advanced processing. It is highly adaptable for handling diverse imaging workflows </td>
+<td align="center" width="20%"><img src="images/fiji.png" alt="FIJI logo"></td>
+<td align="left" width="80%"><b>ImageJ/FIJI</b><br>A widely-used open-source platform for scientific image analysis, extending ImageJ with numerous plugins for advanced processing. It is highly adaptable for handling diverse imaging workflows </td>
 </tr>
 <tr>
-<td align="center" width="20%" height="9%"><img src="images/napari.png" alt="Napari logo"></td>
-<td align="left" width="80%" height="9%"><b>Napari</b> <br>An interactive, n-dimensional image viewer optimized for scientific imaging. It offers fast, extensible visualization and analysis capabilities, making it an excellent tool for microscopy data exploration and annotation.</td>
+<td align="center" width="20%"><img src="images/napari.png" alt="Napari logo"></td>
+<td align="left" width="80%"><b>Napari</b> <br>An interactive, n-dimensional image viewer optimized for scientific imaging. It offers fast, extensible visualization and analysis capabilities, making it an excellent tool for microscopy data exploration and annotation.</td>
 </tr>
 <tr>
-<td align="center" width="20%" height="9%"><img src="images/cellpose.png" alt="Cellpose logo"></td>
-<td align="left" width="80%" height="9%"><b>CellPose</b> <br>A deep learning-based segmentation tool that automates cell and nucleus detection across various imaging conditions. It delivers robust results without extensive parameter tuning, making it accessible for non-expert users.</td>
+<td align="center" width="20%"><img src="images/cellpose.png" alt="Cellpose logo"></td>
+<td align="left" width="80%"><b>CellPose</b> <br>A deep learning-based segmentation tool that automates cell and nucleus detection across various imaging conditions. It delivers robust results without extensive parameter tuning, making it accessible for non-expert users.</td>
 </tr>
 <tr>
-<td align="center" width="20%" height="9%"><img src="images/ilastik.png" alt="Ilastik logo"></td>
-<td align="left" width="80%" height="9%"><b>Ilastik</b><br>A machine learning-based image analysis tool designed for ease of use. It enables interactive classification, segmentation, and tracking of large datasets, requiring no programming expertise to perform complex analyses.</td>
+<td align="center" width="20%"><img src="images/ilastik.png" alt="Ilastik logo"></td>
+<td align="left" width="80%"><b>Ilastik</b><br>A machine learning-based image analysis tool designed for ease of use. It enables interactive classification, segmentation, and tracking of large datasets, requiring no programming expertise to perform complex analyses.</td>
 </tr>
 <tr>
-<td align="center" width="20%" height="9%"><img src="images/qupath.png" alt="QuPath logo"></td>
-<td align="left" width="80%" height="9%"><b>QuPath</b><br>A digital pathology platform that facilitates tissue detection, cell segmentation, and quantitative analysis. It is optimized for analyzing whole slide images, offering tools for biomarker quantification and image annotation.</td>
+<td align="center" width="20%"><img src="images/qupath.png" alt="QuPath logo"></td>
+<td align="left" width="80%"><b>QuPath</b><br>A digital pathology platform that facilitates tissue detection, cell segmentation, and quantitative analysis. It is optimized for analyzing whole slide images, offering tools for biomarker quantification and image annotation.</td>
 </tr>
 <tr>
-<td align="center" width="20%" height="1%"></td>
-<td align="left" width="80%" height="1%">and more...</td>
+<td align="center" width="20%"></td>
+<td align="left" width="80%">and more...</td>
 </tr>
 </tbody>
 </table>
@@ -344,12 +344,12 @@ Our courses, seminars, and workshops are designed to provide an in-depth underst
 <tbody>
 <tr>
   <td align="left" width="25%"><img src="images/burdikova.png" alt="Zuzana Burdikova"></td>
-  <td align="left"><font size="4"><b>Zuzana Burdíkova</b></font><br>Email: zuzana.burdikova@natur.cuni.cz, X: @BurdikovaZuzana  <br>Specialist in super-resolution microscopy, including STORM, SIM, and lightsheet imaging, with expertise in bioimage analysis, international collaboration, and mentoring in scientific research. 
+  <td align="left"><font size="4"><b>Zuzana Burdíkova</b></font><br>Email: zuzana.burdikova@natur.cuni.cz, X: @BurdikovaZuzana  <br>Specialist in light and super-resolution microscopy, including lightsheet, STORM or SIM, as well as electron microscopy. Zuzana has a broad expertise in complex bioimage analysis such as the 3D analysis of developing samples. She also focuses on international collaborations, teaching and mentoring in scientific research. 
   </td>
 </tr>
 <tr>
   <td align="left" width="25%"><img src="images/schatz.png" alt="Martin Schätz"></td>
-  <td align="left"><font size="4"><b>Martin Schätz</b></font><br>Email: martin.Schatz@natur.cuni.cz, X: @SchatzCz, ORCID:0000-0003-0931-4017 <br>Specializes in designing and implementing advanced workflows for user projects, advising on experimental design, and managing research data. His work includes teaching advanced image analysis techniques, research data management, open science and mentoring researchers on microscopy and data processing.
+  <td align="left"><font size="4"><b>Martin Schätz</b></font><br>Email: martin.Schatz@natur.cuni.cz, X: @SchatzCz, ORCID:0000-0003-0931-4017 <br> Martin specializes in designing and implementing custom advanced workflows for bioimage analysis as well as consulting on experimental design and managing research data. He is a founding member of the Czech Bioimage Analysis society ([CzechBIAS](https://czechbias.github.io/intro.html)), and is commited with the philosophy of Open Science. Martin teaches advanced image analysis techniques and mentors researchers in the use of microscopy and in data processing. Check out his newsletter [here](https://subscribepage.io/44igca).
   </td>
 </tr>
 <tr>
