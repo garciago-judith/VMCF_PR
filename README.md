@@ -349,7 +349,7 @@ Our courses, seminars, and workshops are designed to provide an in-depth underst
 </tr>
 <tr>
   <td align="left" width="25%"><img src="images/schatz.png" alt="Martin Schätz"></td>
-  <td align="left"><font size="4"><b>Martin Schätz</b></font><br>Email: martin.Schatz@natur.cuni.cz, X: @SchatzCz, ORCID:0000-0003-0931-4017 <br> Martin specializes in designing and implementing custom advanced workflows for bioimage analysis as well as consulting on experimental design and managing research data. He is a founding member of the Czech Bioimage Analysis society ([CzechBIAS](https://czechbias.github.io/intro.html)), and is commited with the philosophy of Open Science. Martin teaches advanced image analysis techniques and mentors researchers in the use of microscopy and in data processing. Check out his newsletter [here](https://subscribepage.io/44igca).
+  <td align="left"><font size="4"><b>Martin Schätz</b></font><br>Email: martin.Schatz@natur.cuni.cz, X: @SchatzCz, ORCID:0000-0003-0931-4017 <br> Martin specializes in designing and implementing custom advanced workflows for bioimage analysis as well as consulting on experimental design and managing research data. He is a founding member of the Czech Bioimage Analysis society <a href="https://czechbias.github.io/intro.html" target="_blank">CzechBIAS</a>, and is commited with the philosophy of Open Science. Martin teaches advanced image analysis techniques and mentors researchers in the use of microscopy and in data processing. Check out his newsletter <a href="https://subscribepage.io/44igca" target="_blank">here</a>.
   </td>
 </tr>
 <tr>
